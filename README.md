@@ -1,4 +1,6 @@
-# vue-tailwind-template
+# Vue Tailwind Template
+
+A template project with both Vue and Tailwind installed out of the box. Perfect for learning either framework or quickly spinning up a website.
 
 ## Project setup
 ```
