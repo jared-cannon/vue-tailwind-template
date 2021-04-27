@@ -15,8 +15,8 @@
                         <div class="divide-y divide-gray-200">
                             <div class="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
                                 <p>
-                                    A template project with Vue and Tailwind installed out of the box.
-                                    Perfect for learning Vue and Tailwind or quickly spinning up a website.
+                                    A template project with both Vue and Tailwind installed out of the box.
+                                    Perfect for learning either framework or quickly spinning up a website.
                                 </p>
                             </div>
                             <div class="pt-6 text-base leading-6 font-bold sm:text-lg sm:leading-7">
